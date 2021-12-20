@@ -1,6 +1,6 @@
 # BLOG_SITE CREATED BY KAMOLIDDIN JAMOLIDDINOV JALOLIDDIN O'G'LI
 
-# URL = "http://localhost:777"
+# URL = "https://kamoliddin-blog.herokuapp.com"
 
 # token shart bo'magan routlar
 
