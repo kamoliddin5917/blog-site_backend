@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev src/index.ts --debug",
-    "start": "node src/index.js",
+    "start": "node dist/index.js",
     "build":"tsc"
   },
   "keywords": [],
